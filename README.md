@@ -1,7 +1,7 @@
 # FormLiveFormDead
 
 Real-time Weather-Based Style Recommended App: Team Project with Schoolmates (2019.06)
-- [unning image -Youtube](https://youtu.be/Ie1JiVwIsrU)
+- [Running image -Youtube](https://youtu.be/Ie1JiVwIsrU)
 
 # Participants
 
