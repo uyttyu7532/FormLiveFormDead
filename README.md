@@ -6,7 +6,7 @@ Real-time Weather-Based Style Recommended App: School Friends and Team Projects
 
   - me: 임예린( https://github.com/enurinm ) :: DB/Server
   - 백충원
-  - 조예린
+  - 조예린( https://github.com/uyttyu7532 )
   - 주지혜
 
 # File Description
