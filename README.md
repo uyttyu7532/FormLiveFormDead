@@ -1,6 +1,6 @@
 # FormLiveFormDead
 
-Real-time Weather-Based Style Recommended App: School Friends and Team Projects
+Real-time Weather-Based Style Recommended App: Team Project with Schoolmates
 
 # participants
 
