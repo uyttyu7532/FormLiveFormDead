@@ -4,7 +4,7 @@ Real-time Weather-Based Style Recommended App: Team Project with Schoolmates (20
 
 # participants
 
-  - me: 임예린( https://github.com/enurinm ) :: DB/Server
+  - me: 임예린( https://github.com/enurinm )
   - 백충원
   - 조예린( https://github.com/uyttyu7532 )
   - 주지혜( https://github.com/joojh1013 )
