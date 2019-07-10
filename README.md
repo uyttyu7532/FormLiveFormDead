@@ -8,3 +8,12 @@ Real-time Weather-Based Style Recommended App: School Friends and Team Projects
   - 백충원
   - 조예린
   - 주지혜
+
+# File Description
+
+  1. App/190427SwipeTestApp
+  2. FormLiveFormDead
+README.md
+design document.pdf
+project summary.pdf
+running image.mp4
