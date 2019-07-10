@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">190427SwipeTestApp</string>
+    <string name="dateNow">현재 시간</string>
+    <string name="locationNow">현재 위치</string>
+    <string name="nowTemperature">15℃</string>
+    <string name="fineDust_Title">미세먼지</string>
+    <string name="fineDustTitle">미세먼지</string>
+    <string name="fineDust">미세먼지 농도</string>
+    <string name="mastkText">마스크추천</string>
+    <string name="ultraFineDustTitle">초미세먼지</string>
+    <string name="ultraFineDust">초미세먼지 농도</string>
+    <string name="umbrella_Title">강수확률</string>
+    <string name="rainfall">강수확률</string>
+    <string name="umbrella">우산 필요여부</string>
+    <string name="top_Title">상의</string>
+    <string name="top">상의 종류</string>
+    <string name="bottom_Title">하의</string>
+    <string name="bottom">하의 종류</string>
+    <string name="jacket_Title">외투</string>
+    <string name="jacket">외투 종류</string>
+    <string name="maxTemperature_Title">최고기온</string>
+    <string name="minTemperature_Title">최저기온</string>
+    <string name="maxTop">상의 종류</string>
+    <string name="maxJacket">외투 종류</string>
+    <string name="minTop">상의 종류</string>
+    <string name="minJacket">외투 종류</string>
+    <string name="shareFragmentMessage">당신의 스타일을 다른 사용자와 공유해보세요!</string>
+    <string name="time1">사용자1 공유 시간</string>
+    <string name="time2">사용자2 공유 시간</string>
+    <string name="time3">사용자3 공유 시간</string>
+    <string name="location1">사용자1 공유 위치</string>
+    <string name="location2">사용자2 공유 위치</string>
+    <string name="location3">사용자3 공유 위치</string>
+</resources>
