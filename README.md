@@ -11,9 +11,8 @@ Real-time Weather-Based Style Recommended App: School Friends and Team Projects
 
 # File Description
 
-  1. App/190427SwipeTestApp
-  2. FormLiveFormDead
-README.md
-design document.pdf
-project summary.pdf
-running image.mp4
+- App/190427SwipeTestApp
+- FormLiveFormDead
+- design document.pdf
+- project summary.pdf
+- running image.mp4
