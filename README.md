@@ -11,8 +11,8 @@ Real-time Weather-Based Style Recommended App: School Friends and Team Projects
 
 # File Description
 
-- App/190427SwipeTestApp
-- FormLiveFormDead
+- App/190427SwipeTestApp :: Client Application Code (JAVA, Android)
+- FormLiveFormDead :: Server Code (JAVA)
 - design document.pdf
 - project summary.pdf
 - running image.mp4
