@@ -2,7 +2,7 @@
 
 Real-time Weather-Based Style Recommended App: Team Project with Schoolmates (2019.06)
 
-# participants
+# Participants
 
   - me: 임예린( https://github.com/enurinm )
   - 백충원
